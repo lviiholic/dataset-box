@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lviiholic, you can just call me holic!
-- 👀 I’m interested in how AI can be applied to digital media field.
-- 🌱 I’m currently learning AI and computer science/data science.
-- 💞️ I’m looking to collaborate on AI application projects.
+- 🌱 Currently learning AI and computer science/data science.
+- 🐈‍⬛ Brainy is the new sexy.
 
 <!---
 lviiholic/lviiholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
